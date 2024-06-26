@@ -1,0 +1,8 @@
+*.sln
+*.csproj
+.vscode
+Library
+Logs
+UserSettings
+Build
+Builds
